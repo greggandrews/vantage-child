@@ -1,0 +1,14 @@
+/*
+CTC Separate Stylesheet
+Updated: 2018-12-11 02:25:01
+*/
+
+#masthead .hgroup #header-sidebar {
+    box-sizing: border-box;
+    height: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
