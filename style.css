@@ -4,9 +4,53 @@ Updated: 2018-12-11 02:25:01
 Theme Name: Vantage Child
 Theme URI: https://siteorigin.com/theme/vantage/
 Template: vantage
-Author: Karen and Gregg
+Author: ACA 331
 Author URI: https://austincodingacademy.com
 Description: Vantage Child is a customized version of Siteorgin Vantage Theme.
 Tags: two-columns,left-sidebar,right-sidebar,grid-layout,custom-background,custom-colors,custom-menu,custom-logo,featured-images,footer-widgets,full-width-template,post-formats,sticky-post,theme-options,threaded-comments,translation-ready,blog,e-commerce
 Version: 1.0.1544495101
 */
+
+/* ================== Gregg Styles =========================*/
+
+/* #masthead .hgroup {
+    zoom: 1;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 10px;
+} */
+
+@media screen and (max-width: 640px)
+body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widget {
+    width: auto;
+    float: none;
+    padding: 0;
+    /* padding-bottom: 25px; */
+}
+
+
+/* ================== Emma Styles =========================*/
+
+
+
+
+
+
+
+/* ================== Juan Styles =========================*/
+
+
+
+
+
+
+
+/* ================== Brian Styles =========================*/
+
+
+
+
+
+
+
+/* ================== Madeline Styles =========================*/
