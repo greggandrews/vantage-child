@@ -29,21 +29,32 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
 }
 
 /* this is a test comment */
-
+eyeyeyeyyeyeyeyey
 
 /* this is gregg's test comment */
 
 /* this is YET AGAIN a test comment from gregg */
 
+.so-widget-sow-headline-default-adadf7ead8cb .sow-headline-container h1.sow-headline {
+    font-family: Open Sans;
+    font-weight: 400;
+    text-align: left;
+    color: #223c78;
+    line-height: 1.4em;
+    font-size: 36px;
+}
+
 /* ================== Emma Styles =========================*/
 
 
-
+/* what a great comment from emma */
 
 
 
 
 /* ================== Juan Styles =========================*/
+/* this is a new test comment */
+/* test test test*/
 .rule-right {
    border-right: 1px solid #999999;
 }
@@ -82,6 +93,7 @@ p{
 
 /* ================== Madeline Styles =========================*/
 
+
 /* directions headline */
 
 h3.widget-title{
@@ -101,3 +113,4 @@ div.wpforms-container-full .wpforms-form button[type=submit] {
 div#map-canvas-d41d8cd98f00b204e9800998ecf8427e {
    margin-top: 3.2rem;
 }
+
