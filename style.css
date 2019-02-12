@@ -82,4 +82,22 @@ p{
 
 /* ================== Madeline Styles =========================*/
 
-/* sorry */
+/* directions headline */
+
+h3.widget-title{
+   text-align: center;
+}
+
+/* form button */
+
+div.wpforms-container-full .wpforms-form button[type=submit] {
+   background-color: #A5C438;
+   height: 5rem;
+   width: 40%;
+}
+
+/* google maps image */
+
+div#map-canvas-d41d8cd98f00b204e9800998ecf8427e {
+   margin-top: 3.2rem;
+}
