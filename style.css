@@ -76,12 +76,12 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
   margin-top: 50px;
   margin-bottom: 100px;}
 
-  h3.widget-title{
+  /* h3.widget-title{
      font-size: 43px;
      color:#196D9A;
      font-family: open-sans;
      font-weight: bold;
-}
+} */
 
 .s1{
   font-size: 20px;
@@ -114,9 +114,9 @@ p{
 /* ================== Madeline Styles =========================*/
 
 
-h3.widget-title{
+/* h3.widget-title{
    text-align: center;
-}
+} */
 
 /* form button */
 
