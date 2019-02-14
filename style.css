@@ -39,8 +39,9 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
 
 
 /* what a great comment from emma */
-
-
+.ourMission_ep {
+  color: red;
+}
 
 
 /* ================== Juan Styles =========================*/
