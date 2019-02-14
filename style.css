@@ -38,7 +38,11 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
     font-size: 36px;
 }
 
-
+h1#greggtext {
+    text-align: center;
+    font-size: 3em;
+    color: blue;
+}
 
 
 
