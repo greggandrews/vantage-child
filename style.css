@@ -35,6 +35,15 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
 
 /* this is YET AGAIN a test comment from gregg */
 
+.so-widget-sow-headline-default-adadf7ead8cb .sow-headline-container h1.sow-headline {
+    font-family: Open Sans;
+    font-weight: 400;
+    text-align: left;
+    color: #223c78;
+    line-height: 1.4em;
+    font-size: 36px;
+}
+
 /* ================== Emma Styles =========================*/
 
 
@@ -50,11 +59,10 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
    border-right: 1px solid #999999;
 }
 .rule-btm {
-   border-bottom: 2px solid #223C78;
+   border-bottom: 3px solid #223C78;
 }
-.rule-top {
-   border-top: 2px solid #223C78;
-}
+
+/* what a great comment from Juan */
 
 
 
@@ -105,3 +113,24 @@ p{
 /* ================== Madeline Styles =========================*/
 
 /* sorry */
+
+/* directions headline */
+
+h3.widget-title{
+   text-align: center;
+}
+
+/* form button */
+
+div.wpforms-container-full .wpforms-form button[type=submit] {
+   background-color: #A5C438;
+   height: 5rem;
+   width: 40%;
+}
+
+/* google maps image */
+
+div#map-canvas-d41d8cd98f00b204e9800998ecf8427e {
+   margin-top: 3.2rem;
+}
+
