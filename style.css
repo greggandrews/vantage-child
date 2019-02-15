@@ -39,8 +39,47 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
 
 
 /* what a great comment from emma */
-.ourMission_ep {
-  color: red
+h1#ourMission {
+    font-size: 300%;
+    color: white;
+    text-align: center;
+    margin-top: -45%;
+    margin-bottom: 45%;
+  }
+
+  p#missionStatement {
+      font-size: 350%;
+      font-family: "Open Sans";
+      line-height: 1.2;
+      text-align: center;
+      padding: 10%;
+    }
+
+  h3.aboutHeader {
+      color: white;
+      font-size: 200%;
+      background: #263D74;
+      text-align: center;
+      padding: 4%;
+      width: 100%;
+      font-family: "Open Sans";
+  }
+
+  h4#newCareer {
+    background: #263D74;
+    color: white;
+    font-size: 300%;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 30%;
+  }
+
+  a.getStarted.ow-icon-placement-left.ow-button-hover {
+    background: #A5C43D;
+    border: none;
+    box-shadow: 1px 1px grey;
+    width: 30%;
+    padding: 4%;
 }
 
 
