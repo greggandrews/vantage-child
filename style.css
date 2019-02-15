@@ -65,6 +65,18 @@ h1#ourMission {
       font-family: "Open Sans";
   }
 
+  p.teamName {
+    font-family: "Open Sans";
+    text-align: center;
+    font-size: 160%;
+    font-weight: bold;
+}
+
+p.teamTitle {
+    font-family: "Open Sans";
+    text-align: center;
+}
+
   h4#newCareer {
     background: #263D74;
     color: white;
