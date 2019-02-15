@@ -29,6 +29,64 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
 }
 
 
+/* ================== Emma Styles =========================*/
+
+
+/* what a great comment from emma */
+h1#ourMission {
+    font-size: 300%;
+    color: white;
+    text-align: center;
+    margin-top: -45%;
+    margin-bottom: 45%;
+  }
+
+  p#missionStatement {
+      font-size: 350%;
+      font-family: "Open Sans";
+      line-height: 1.2;
+      text-align: center;
+      padding: 10%;
+    }
+
+  h3.aboutHeader {
+      color: white;
+      font-size: 200%;
+      background: #263D74;
+      text-align: center;
+      padding: 4%;
+      width: 100%;
+      font-family: "Open Sans";
+  }
+
+  p.teamName {
+    font-family: "Open Sans";
+    text-align: center;
+    font-size: 160%;
+    font-weight: bold;
+}
+
+p.teamTitle {
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+  h4#newCareer {
+    background: #263D74;
+    color: white;
+    font-size: 300%;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 30%;
+  }
+
+  a.getStarted.ow-icon-placement-left.ow-button-hover {
+    background: #A5C43D;
+    border: none;
+    box-shadow: 1px 1px grey;
+    width: 30%;
+    padding: 4%;
+
 .so-widget-sow-headline-default-adadf7ead8cb .sow-headline-container h1.sow-headline {
     font-family: Open Sans;
     font-weight: 400;
@@ -51,6 +109,7 @@ h1#greggtext {
 
 .ourMission_ep {
   color: red;
+
 }
 
 
@@ -61,11 +120,16 @@ h1#greggtext {
 
 /* ================== Juan Styles =========================*/
 
+
+
 .rule-right {
    border-right: 1px solid #999999;
 }
 .rule-btm {
-   border-bottom: 3px solid #223C78;
+   border-bottom: 2px solid #223C78;
+}
+.rule-top {
+   border-top: 2px solid #223C78;
 }
 
 
@@ -76,15 +140,18 @@ h1#greggtext {
 
 /* ================== Brian Styles =========================*/
 .courseInformation{
+  h3{
+
 
   margin-top: 50px;
   margin-bottom: 100px;}
 
   /* h3.widget-title{
      font-size: 43px;
-     color:#196D9A;
+     color: #7CD469;
      font-family: open-sans;
      font-weight: bold;
+
 } */
 
 .s1{
@@ -93,12 +160,15 @@ h1#greggtext {
    color: #4D4D4D;
    font-weight: lighter;
 
+
 }
 p{
    font-size: 20px;
     font-family: open-sans;
     color: #4D4D4D;
     font-weight: lighter;
+}
+
 }
 
 @media only screen
@@ -122,13 +192,10 @@ p{
    text-align: center;
 } */
 
-/* form button */
 
-div.wpforms-container-full .wpforms-form button[type=submit] {
-   background-color: #A5C438;
-   height: 5rem;
-   width: 40%;
-}
+
+
+/* ================== Madeline Styles =========================*/
 
 /* google maps image */
 
