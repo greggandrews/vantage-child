@@ -96,12 +96,6 @@ p.teamTitle {
     font-size: 36px;
 }
 
-h1#greggtext {
-    text-align: center;
-    font-size: 3em;
-    color: blue;
-}
-
 
 
 /* ================== Emma Styles =========================*/
@@ -187,15 +181,19 @@ p{
 
 /* ================== Madeline Styles =========================*/
 
+/* directions headline*/
 
-/* h3.widget-title{
-   text-align: center;
-} */
+h1.madeline-instructions {
+  text-align: center;
+}
 
+/* form button */
 
-
-
-/* ================== Madeline Styles =========================*/
+div.wpforms-container-full .wpforms-form button[type=submit] {
+   background-color: #A5C438;
+   height: 5rem;
+   width: 40%;
+}
 
 /* google maps image */
 
