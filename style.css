@@ -28,6 +28,10 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
     /* padding-bottom: 25px; */
 }
 
+h1#greggtext {
+  color: red;
+  text-align: center;
+}
 
 /* ================== Emma Styles =========================*/
 
@@ -174,8 +178,6 @@ p{
         font-align:center;
       }
     }
-
-
 
 
 
