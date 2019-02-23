@@ -145,7 +145,6 @@ p.teamTitle {
      color: #7CD469;
      font-family: open-sans;
      font-weight: bold;
-
 } */
 
 .s1{
@@ -183,8 +182,11 @@ p{
 
 /* form button */
 
+
 button#wpforms-submit-482 {
   background-color: #A5C438;
   width: 35%;
   height: 5rem;
 }
+
+
