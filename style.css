@@ -28,12 +28,6 @@ body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widg
     /* padding-bottom: 25px; */
 }
 
-/* this is a test comment */
-
-
-/* this is gregg's test comment */
-
-/* this is YET AGAIN a test comment from gregg */
 
 /* ================== Emma Styles =========================*/
 
@@ -94,6 +88,20 @@ h4#newCareer {
     box-shadow: 1px 1px grey;
     width: 30%;
     padding: 4%;
+
+.so-widget-sow-headline-default-adadf7ead8cb .sow-headline-container h1.sow-headline {
+    font-family: Open Sans;
+    font-weight: 400;
+    text-align: left;
+    color: #223c78;
+    line-height: 1.4em;
+    font-size: 36px;
+}
+
+h1#greggtext {
+    text-align: center;
+    font-size: 3em;
+    color: blue;
 }
 
 div#emmaButton {
@@ -103,7 +111,25 @@ div#emmaButton {
 }
 
 
+
+/* ================== Emma Styles =========================*/
+
+
+.ourMission_ep {
+  color: red;
+
+}
+
+
+
+
+
+
+
 /* ================== Juan Styles =========================*/
+
+
+
 .rule-right {
    border-right: 1px solid #999999;
 }
@@ -123,10 +149,26 @@ div#emmaButton {
 /* ================== Brian Styles =========================*/
 .courseInformation{
   h3{
+
+
+  margin-top: 50px;
+  margin-bottom: 100px;}
+
+  /* h3.widget-title{
      font-size: 43px;
      color: #7CD469;
      font-family: open-sans;
      font-weight: bold;
+
+} */
+
+.s1{
+  font-size: 20px;
+   font-family: open-sans;
+   color: #4D4D4D;
+   font-weight: lighter;
+
+
 }
 p{
    font-size: 20px;
@@ -137,7 +179,34 @@ p{
 
 }
 
+@media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+
+      .courseInformation{
+        font-align:center;
+      }
+    }
+
+
 
 
 
 /* ================== Madeline Styles =========================*/
+
+
+/* h3.widget-title{
+   text-align: center;
+} */
+
+
+
+
+/* ================== Madeline Styles =========================*/
+
+/* google maps image */
+
+div#map-canvas-d41d8cd98f00b204e9800998ecf8427e {
+   margin-top: 3.2rem;
+}
