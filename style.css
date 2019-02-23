@@ -182,8 +182,11 @@ p{
 
 /* form button */
 
-div.wpforms-container-full .wpforms-form button[type=submit] {
-   background-color: #A5C438;
-   height: 5rem;
-   width: 40%;
+
+button#wpforms-submit-482 {
+  background-color: #A5C438;
+  width: 35%;
+  height: 5rem;
 }
+
+
