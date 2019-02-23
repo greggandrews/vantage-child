@@ -37,7 +37,7 @@ h1#ourMission {
     font-size: 300%;
     color: white;
     text-align: center;
-    margin-top: -45%;
+    margin-top: -25%;
     margin-bottom: 45%;
   }
 
@@ -47,6 +47,7 @@ h1#ourMission {
       line-height: 1.2;
       text-align: center;
       padding: 10%;
+      margin-top: -18%;
     }
 
   h3.aboutHeader {
@@ -205,5 +206,3 @@ button#wpforms-submit-482 {
   width: 35%;
   height: 5rem;
 }
-
-
