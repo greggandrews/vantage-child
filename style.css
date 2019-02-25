@@ -4,9 +4,211 @@ Updated: 2018-12-11 02:25:01
 Theme Name: Vantage Child
 Theme URI: https://siteorigin.com/theme/vantage/
 Template: vantage
-Author: Karen and Gregg
+Author: ACA 331
 Author URI: https://austincodingacademy.com
 Description: Vantage Child is a customized version of Siteorgin Vantage Theme.
 Tags: two-columns,left-sidebar,right-sidebar,grid-layout,custom-background,custom-colors,custom-menu,custom-logo,featured-images,footer-widgets,full-width-template,post-formats,sticky-post,theme-options,threaded-comments,translation-ready,blog,e-commerce
 Version: 1.0.1544495101
 */
+
+/* ================== Gregg Styles =========================*/
+
+/* #masthead .hgroup {
+    zoom: 1;
+    position: relative;
+    padding-top: 20px;
+    padding-bottom: 10px;
+} */
+
+/* @media screen and (max-width: 640px)
+body.responsive #footer-widgets .widget, body.responsive #masthead-widgets .widget {
+    width: auto;
+    float: none;
+    padding: 0; */
+    /* padding-bottom: 25px; */
+}
+
+
+/* ================== Emma Styles =========================*/
+
+
+/* what a great comment from emma */
+/* h1#ourMission {
+    font-size: 300%;
+    color: white;
+    text-align: center;
+    margin-top: -25%;
+    margin-bottom: 45%;
+  } */
+
+  p#missionStatement {
+      font-size: 350%;
+      font-family: "Open Sans";
+      line-height: 1.2;
+      text-align: center;
+      padding: 10%;
+      /* margin-top: -18%; */
+    }
+
+  h3.aboutHeader {
+      color: white;
+      font-size: 200%;
+      background: #263D74;
+      text-align: center;
+      padding: 4%;
+      width: 100%;
+      font-family: "Open Sans";
+      margin-left: -35px;
+      margin-right: -35px;
+      padding-left: 35px;
+      padding-right: 35px;
+      border-left: 0px;
+      border-right: 0px;
+  }
+
+  p.teamName {
+    font-family: "Open Sans";
+    text-align: center;
+    font-size: 160%;
+    font-weight: bold;
+}
+
+p.teamTitle {
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+.teamPhoto.animate-5c71963554319464179665.panels-animation-hide.panel-widget-style.panel-widget-style-for-478-7-0-0 {
+    margin-left: 11%;
+}
+
+.teamPhoto.panel-widget-style.panel-widget-style-for-478-7-1-0 {
+    margin: 11%;
+}
+
+.teamPhoto.panel-widget-style.panel-widget-style-for-478-7-2-0 {
+    margin-left: 11%;
+}
+
+h4#newCareer {
+    background: #263D74;
+    color: white;
+    font-size: 300%;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 30%;
+  }
+h4#newCareer {
+  background-color: #263D74;
+  margin-left: -35px;
+  margin-right: -35px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-left: 0px;
+  border-right: 0px;
+}
+
+
+  a.getStarted.ow-icon-placement-left.ow-button-hover {
+    background: #A5C43D;
+    border: none;
+    box-shadow: 1px 1px grey;
+    width: 30%;
+    padding: 4%;
+
+.so-widget-sow-headline-default-adadf7ead8cb .sow-headline-container h1.sow-headline {
+    font-family: Open Sans;
+    font-weight: 400;
+    text-align: left;
+    color: #223c78;
+    line-height: 1.4em;
+    font-size: 36px;
+}
+
+div#emmaButton {
+    background: #263D74;
+    margin-top: -30%;
+    margin-bottom: 8%;
+}
+
+p.aboutText {
+    font-size: 115%;
+    line-height: 2;
+}
+
+
+/* ================== Juan Styles =========================*/
+
+
+
+.rule-right {
+   border-right: 1px solid #999999;
+}
+.rule-btm {
+   border-bottom: 2px solid #223C78;
+}
+.rule-top {
+   border-top: 2px solid #223C78;
+}
+
+
+
+
+/* ================== Brian Styles =========================*/
+
+.courseInformation{
+  h3{
+
+
+  margin-top: 50px;
+  margin-bottom: 100px;} */
+
+ h3.widget-title{
+     font-size: 43px;
+     color: #7CD469;
+     font-family: open-sans;
+     font-weight: bold;
+}
+
+.s1{
+  font-size: 20px;
+   font-family: open-sans;
+   color: #4D4D4D;
+   font-weight: lighter;
+
+
+}
+p{
+   font-size: 20px;
+    font-family: open-sans;
+    color: #4D4D4D;
+    font-weight: lighter;
+}
+
+}
+
+@media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+
+      .courseInformation{
+        font-align:center;
+      }
+    }
+
+
+
+
+
+    /* ================== Madeline Styles =========================*/
+
+    /* form button */
+
+  button#wpforms-submit-482 {
+      background-color: #A5C438;
+      width: 35%;
+      height: 5rem;
+    }
+
+    
